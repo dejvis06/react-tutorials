@@ -2,9 +2,8 @@
   <img src="./src/assets/react-core-concepts.png" alt="Stylized atom" width="200" height="200" />
 </p>
 
-<p align="center">
-<h1>React Essentials</h1>
-</P>
+<h1 align="center">React Essentials</h1>
+
 <p align="center">
   Fundamental React concepts you will need for almost any app you are going to build!
 </p>
