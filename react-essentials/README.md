@@ -1,15 +1,16 @@
-<header style="text-align: center; margin: 3rem 0;">
-  <img src="./src/assets/react-core-concepts.png" alt="Stylized atom" style="height: 5rem; width: 10rem; object-fit: cover;" />
-  <h1 style="margin: 0; font-family: 'Roboto Condensed', sans-serif; font-size: 5rem; background: linear-gradient(40deg, #ea00ff, #03d5ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));">
-    React Essentials
-  </h1>
-  <p style="margin: 0; font-size: 1.25rem; color: #8964b0; font-family: 'Roboto Condensed', sans-serif;">
-    Fundamental React concepts you will need for almost any app you are going to build!
-  </p>
-</header>
+# React Essentials
+
+<img src="./src/assets/react-core-concepts.png" alt="Stylized atom" style="height: 5rem; width: 10rem; object-fit: cover; display: block; margin: 3rem auto;" />
+
+<h1 style="text-align: center; font-family: 'Roboto Condensed', sans-serif; font-size: 5rem; background: linear-gradient(40deg, #ea00ff, #03d5ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5)); margin: 0;">
+  React Essentials
+</h1>
+<p style="text-align: center; margin: 0; font-size: 1.25rem; color: #8964b0; font-family: 'Roboto Condensed', sans-serif;">
+  Fundamental React concepts you will need for almost any app you are going to build!
+</p>
 
 <main style="width: 90%; max-width: 50rem; margin: auto;">
-  <section id="core-concepts" style="padding: 2rem; border-radius: 6px; background-color: #140524; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);">
+  <section id="core-concepts" style="padding: 2rem; border-radius: 6px; background-color: #140524; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4); margin-top: 3rem;">
     <h2 style="text-align: center; font-family: 'Roboto Condensed', sans-serif; margin: 0 0 1.5rem 0; color: #a18aba;">
       Core Concepts
     </h2>
