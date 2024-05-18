@@ -1,4 +1,5 @@
 import "./App.css";
+import LearnReact from "./components/LearnReact.js";
 import Header from "./components/header/Header.js";
 import logo from "./logo.svg";
 
@@ -17,6 +18,7 @@ function App() {
           text: "Learn React",
         }}
       />
+      <LearnReact />
     </div>
   );
 }
