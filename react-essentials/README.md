@@ -8,8 +8,6 @@
   Fundamental React concepts you will need for almost any app you are going to build!
 </p>
 
-## Core Concepts
-
 ### Components
 
 <img src="./src/assets/components.png" alt="Components" width="60" height="40" />
